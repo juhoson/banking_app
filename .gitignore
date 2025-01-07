@@ -1,1 +1,6 @@
 /app/target/
+/client/node_modules/
+client.iml
+banking-app.iml
+.idea
+.DS_Store
