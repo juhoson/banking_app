@@ -4,7 +4,6 @@ import com.banking.domain.ScheduledPayment;
 import com.banking.domain.PaymentStatus;
 import com.banking.domain.dto.SchedulePaymentRequestDTO;
 import com.banking.repository.ScheduledPaymentRepository;
-import lombok.RequiredArgsConstructor;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
